@@ -53,8 +53,8 @@ provider "google" {
 provider "grafana" {
   alias         = "firstnewinfra"
 
-    url = "https://nacerlf.grafana.net"
-     auth = "eyJrIjoiUDV3U0w0OTFONHRvR3VkSHk0UGJPQzVlVzdPbTJsWDQiLCJuIjoicmVuZHVJbmZyYSIsImlkIjoxfQ==" 
+    url = "REPLACE"
+     auth = "REPLACE==" 
     //cloud_api_key = "eyJrIjoiUDV3U0w0OTFONHRvR3VkSHk0UGJPQzVlVzdPbTJsWDQiLCJuIjoicmVuZHVJbmZyYSIsImlkIjoxfQ==" 
 
 }
