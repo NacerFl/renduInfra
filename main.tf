@@ -55,7 +55,6 @@ provider "grafana" {
 
     url = "REPLACE"
      auth = "REPLACE==" 
-    //cloud_api_key = "eyJrIjoiUDV3U0w0OTFONHRvR3VkSHk0UGJPQzVlVzdPbTJsWDQiLCJuIjoicmVuZHVJbmZyYSIsImlkIjoxfQ==" 
 
 }
 
